@@ -15,9 +15,6 @@ Sharpening my algorithm skills daily on Codewars: https://www.codewars.com/users
 - LinkedIn: https://www.linkedin.com/in/sathi-chowdhury-146b6117b/
 - Email: sathichowdhury2017@gmail.com
 
-**SathiC1990/sathic1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building full-stack apps using Next.js
 - 🌱 I’m currently learning advanced backend development with PostgreSQL
 - 👯 I’m looking to collaborate on open-source or beginner-friendly JavaScript projects
