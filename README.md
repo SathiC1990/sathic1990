@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source or beginner-friendly JavaScript projects
 - 🤔 I’m looking for help with performance optimization in React
 - 💬 Ask me about full-stack development, REST APIs, or debugging
-- 📫 How to reach me: sathicode@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I once taught myself to code while raising a toddler — true multitasking!
 
