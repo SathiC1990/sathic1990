@@ -10,6 +10,8 @@ I'm Sathi Chowdhury — a passionate Full-Stack Developer continuously improving
 ### 🧩 Codewars Profile
 
 Sharpening my algorithm skills daily on Codewars: https://www.codewars.com/users/SathiC1990/badges/micro
+### Netlify Project:
+https://movie-dk-review.netlify.app/
 
 ### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/sathi-chowdhury-146b6117b/
